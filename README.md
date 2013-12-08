@@ -1,4 +1,5 @@
-hookline
-========
+These agents perform various subtasks including:
 
-hookline
+1. Listen to external webhooks (listen.js)
+2. Forward webhooks to all followers (forward.js)
+

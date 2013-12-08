@@ -1,0 +1,16 @@
+{
+  "author": "Alex Parker <alexofparker@gmail.com> (http://www.domitable.com)",
+  "name": "hookline",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AlexanderParker/hookline.git"
+  },
+  "dependencies": {
+    "backbone": "1.0.0",
+    "underscore": "1.5.2"
+  },
+  "engines": {
+    "node": "*"
+  }
+}

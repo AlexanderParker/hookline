@@ -89,5 +89,5 @@ Webhooks.prototype.registerWebhooks = function() {
 		res.end();
 	}).listen(8080);
 };
-
+// @todo: Have multiple agents when scaleability becomes a problem
 var agents = new Webhooks();
